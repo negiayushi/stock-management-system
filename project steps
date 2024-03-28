@@ -1,0 +1,8 @@
+steps to make this project
+
+download xampp server 
+download sms file
+open the server and start mysql,apache
+import the sms file into the seperate file
+copy paste sms file into xampp folder htdocs files
+open the database add save the dataset , import the sns dataset and open the link and login into the webpage
